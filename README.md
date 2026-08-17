@@ -28,3 +28,5 @@ https://github.com/user-attachments/assets/047fad66-b0d0-493c-8af2-28601ba70786
 ### tip:
 - You can use: windows+r-> past: `%appdata%` for accessing the: \AppData\Roaming\
 - Files viewer is a normal plugins so you have to enable it like a normal plugins.
+
+**Need support? :** https://discord.gg/qkjMwXZ9UD
